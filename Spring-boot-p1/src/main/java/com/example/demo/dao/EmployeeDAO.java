@@ -18,6 +18,7 @@ public class EmployeeDAO {
  
     static {
         initEmps();
+		System.out.println("hello");
     }
  
     private static void initEmps() {
